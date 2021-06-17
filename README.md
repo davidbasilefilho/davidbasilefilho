@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bla1236
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C#(Unity) and Python
+- 💞️ I’m looking to collaborate on nothing yet
+- 📫 How to reach me: https://twitter.com/DavidBF123
