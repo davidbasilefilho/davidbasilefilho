@@ -3,4 +3,4 @@
   🌱 I’m currently learning C# with Unity, GDScript with Godot and Python
   💞️ I’m not looking to collaborate... yet
 
-twitter.com/DavidBF123
+https://twitter.com/DavidBF123
