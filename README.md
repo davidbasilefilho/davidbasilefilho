@@ -4,8 +4,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBF16&layout=compact&langs_count=7&theme=dracula">
 </div>
 
+<p align="center">
 ![Snake animation](https://github.com/DavidBF16/DavidBF16/blob/output/github-contribution-grid-snake.svg)
-            
+</p>            
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Unity" height="30" width="40" background-color="white"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="David-Unreal" height="30" width="40" background-color="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
