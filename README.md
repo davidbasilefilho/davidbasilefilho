@@ -1,4 +1,4 @@
-## Olá! Eu sou David Basile Filho, sou estudante da ETEC e programo jogos!
+## Olá! Eu sou David Basile Filho, Estudante da ETEC e Desenvolvedor de Jogos!
 <div align="center">
   <a href="https://github.com/DavidBF16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidBF16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
