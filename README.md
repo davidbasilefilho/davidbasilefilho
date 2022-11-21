@@ -2,9 +2,10 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DavidBF16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBF16&layout=compact&langs_count=7&theme=dracula">
-  <br>
-  ![Snake animation](https://github.com/DavidBF16/DavidBF16/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/DavidBF16/DavidBF16/blob/output/github-contribution-grid-snake.svg)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Unity" height="30" width="40" background-color="white"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="David-Unreal" height="30" width="40" background-color="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
