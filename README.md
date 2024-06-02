@@ -7,17 +7,6 @@
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidbasilefilho&cache_seconds=21600&langs_count=7&layout=compact&theme=dracula&hide_border=true&border_radius=12">
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/davidbasilefilho/.dotfiles">
-    <img height="80rem" src="https://github-readme-stats.vercel.app/api/pin?username=davidbasilefilho&repo=.dotfiles&cache_seconds=21600&theme=dracula&hide_border=true&show_owner=true&border_radius=12">
-  </a>
-  <a href="https://github.com/davidbasilefilho/nvim">
-    <img height="80rem" src="https://github-readme-stats.vercel.app/api/pin?username=davidbasilefilho&repo=nvim&cache_seconds=21600&theme=dracula&hide_border=true&show_owner=true&border_radius=12">
-  </a>
-</div>
-
 ##
   
 <div align="center"
