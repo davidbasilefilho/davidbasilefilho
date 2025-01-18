@@ -1,9 +1,11 @@
 ## Hi! I'm David
 
-- I'm a software development student at CEUNSP Itu.
-- I have been identified as a **gifted individual** in some areas, like *programming* and *languages*.
-- I have a hyperfixation in *film*.
-- I am **proficient** at languages such as JavaScript and TypeScript, C++, Go (I'm currently learning that), C#, PHP, SQl, HTML/CSS, and technologies like React, Expo, Next.js, Supabase, etc.
+:man_technologist: I'm a software development student at CEUNSP Itu.
+:man_student: I have been identified as a **gifted individual** in some areas, like *programming* and *languages*.
+:movie_camera: I have a hyperfixation in *film*.
+:computer: I am **proficient** at languages such as JavaScript and TypeScript, C++, Go (I'm currently learning that), C#, PHP, SQl, HTML/CSS, and technologies like React, Expo, Next.js, Supabase, etc.
+
+##
 
 <div align="left">
 
