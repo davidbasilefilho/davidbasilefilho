@@ -6,7 +6,7 @@
 <br>
 :movie_camera: I have a hyperfixation in *film*.
 <br>
-:computer: I am **proficient** at languages such as JavaScript and TypeScript, C++, Go, C#, PHP, SQl, HTML/CSS, and technologies like React, Expo, Next.js, Supabase, etc.
+:computer: I am **proficient** at languages such as JavaScript and TypeScript, C++, Go, C#, PHP, SQL, HTML/CSS, and technologies like React, Expo, Next.js, Supabase, etc.
 
 ##
 
